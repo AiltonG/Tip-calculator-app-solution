@@ -13,4 +13,4 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://www.frontendmentor.io/solutions/tipcalculatorappsolution-IHoLYe91f3)
-- Live Site URL: [live site](https://ailtong.github.io/refactored-octo-invention/)
+- Live Site URL: [live site](https://ailtong.github.io/tip-calculator-app-solution/)
